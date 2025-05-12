@@ -34,13 +34,6 @@ export const Projects = () => {
                 <a
                   href="https://github.com/diegobonze/fincheck"
                   target="_blank"
-                  className="text-blue-400 hover:text-blue-300 transition-colors mt-4 mb-2"
-                >
-                  View Project →
-                </a>
-                <a
-                  href="https://github.com/diegobonze/fincheck"
-                  target="_blank"
                   className="text-blue-400 hover:text-blue-300 transition-colors mt-2 mb-4"
                 >
                   View project on GitHub →
